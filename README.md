@@ -4,7 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCTrVoSS3Gmb2-fVtXEt4iSw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lazannae" height="30" width="40" /></a>
-<a href="https://vk.com/ricciecapricci" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97462651/199838749-18fd632d-3339-4297-8503-b1aa8ab6e677.png" alt="lazannae" height="30" width="40" /></a>
+<a href="https://vk.com/ricciecapricci" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97462651/199839536-a804d0a6-69f0-48d1-831e-c35db3eef294.png" alt="lazannae" height="30" width="30" /></a>
+<a href="https://t.me/nutsoluv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97462651/199840355-f01dac0c-6442-444c-9544-21115df1c61e.png" alt="lazannae" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/979775087651745813" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97462651/199840892-07527ab7-537e-4cae-99c4-e30fd33ddf0b.png" alt="lazannae" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
